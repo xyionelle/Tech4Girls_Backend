@@ -1,0 +1,4 @@
+1. cd ..
+2. mkdir Backend_Projects
+3. cd Backend_Projects 
+4. mkdir ProjectA ProjectB
