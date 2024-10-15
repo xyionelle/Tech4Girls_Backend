@@ -1,0 +1,5 @@
+In linux there are 3 permissions and 3 areas those permissions are applied to. Each file or directory has a separate set of permissions for the owner of the file, the group of the file and any other user.
+For each permission set a file can have any combination of the three permissions which are read, write and execute. 
+Read permissions allows a user to read the file but not change r execute it as a program
+Write permission allows a user to write to the file but not read or execute it
+Execute permission allows a user to execute the file as a program but not read or write to it
