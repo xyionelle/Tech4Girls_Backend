@@ -1,0 +1,1 @@
+The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content. It is used to update a local repository with code from a remote repository

@@ -1,0 +1,4 @@
+The Steps you will need to perform to create a branch, publish the branch, and switch to github are:
+1. Check to make sure you don't duplicate branch names by running the git branch command. This lists all the names of the current branches on your repository.
+2. Checkout a new branch with the command git checkout -b "name-of-branch". The git checkout command allows you to switch to a new branch. The -b flag allows you yo creakte a new branch and switch to it.
+3. To publish the branch you run the git push origin "name-of-branch" command. The git push command pushes a branch to a remote repository like Githu."origin" is the name of the remote repository you want to use. In this case it is assumed you have set up Github as a remote repository.
