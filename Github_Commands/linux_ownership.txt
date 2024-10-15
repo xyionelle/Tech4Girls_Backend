@@ -1,0 +1,1 @@
+The 3 groups of users in the linux system are the administrator, system users and normal users.
