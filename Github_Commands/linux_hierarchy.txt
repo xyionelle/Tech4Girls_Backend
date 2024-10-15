@@ -1,0 +1,8 @@
+7 directories in linux root directory are
+/etc
+/home
+/usr
+/bin
+/lib
+/proc
+/opt
