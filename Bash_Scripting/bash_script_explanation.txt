@@ -1,1 +1,9 @@
+A Bash script is a powerful tool used to automate tasks and run a sequence of commands, it is a file containing a sequence of commands that are executed by the bash program line by line. It allows you to perform a series of actions, such as navigating to a specific directory, creating a folder, and launching a process using the command line. 
 
+To create a Bash script:
+Write the script in a text file.
+Add #!/bin/bash at the top.
+Make the script executable.
+Run the script from the terminal.
+
+Bash scripts make repetitive and complex tasks easier to manage!
