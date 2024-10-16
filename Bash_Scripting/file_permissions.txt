@@ -1,0 +1,30 @@
+Explanation of File Permissions, after running the command ls -l script.sh:
+
+-rw-r--r-- : This part represents the file type and permissions.
+
+-: The first character indicates the file type(A regular file).
+ 
+rw-: The next three characters represent the owner's/user's permissions.
+r: means; Read permission i.e the owner can read the file.
+w: means; Write permission i.e the owner can modify the file.
+-: means; No executable permission i.e the owner cannot execute the file.
+
+r--: The next three characters represent the group's permissions.
+r: means; Read permission i.e members of the group can read the file.
+--: means; No writable or executable permissions i.e group members cannot modify or execute the file.
+
+r--: The last three characters represent others' (anyone who is not the owner or part of the group) permissions.
+r: means; Read permission i.e others can read the file.
+--: means; No writable or executable permissions i.e others cannot modify or execute the file.
+
+1 (Hard Link Count): This number represents the number of hard links to the file. A hard link is essentially a reference or pointer to the file. In this case, it indicates that there is one reference (the file itself).
+
+userhacsa (Owner):This is the owner of the file, which is typically the user who created it. In this case, the file is owned by the user userhacsa.
+
+userhacsa (Group):This is the group that owns the file. Usually, the user’s primary group shares the same name as the user (userhacsa in this case).
+
+70 (File Size):This is the size of the file in bytes. Here, the size of script.sh is 70 bytes.
+
+Oct 14 10:00 (Last Modification Time):This shows the last modification date and time of the file. In this case, the file script.sh was last modified on October 14 at 10:00 AM.
+
+script.sh (File Name): This is the name of the file, which in this case is script.sh.
