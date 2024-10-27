@@ -1,0 +1,18 @@
+i. 
+int is a variable type in python that stores integers. i.e. whole numbers like 1, 4, 9
+float is a variable type in python that stores floating point numbers like 2.5, 9.24 and 99.34
+str is a variable type in python that stores a string which is a list of characters like "come" and "go"
+list is a variable type in python that stores multiple variables together in an array that can be accessed with indices. Eg. a = [1, 2, 3]
+tuple is a variable type that is like a list but cannot be changed once defined. It is defined with a () instead of a []. E.g. b = (1, 2)
+set is also like a list but only holds unique values. So when a value is defined multiple times, only one is stored.
+
+
+
+ii.
+text1 = "First text"
+text2 = "Second text"
+
+print("upper() example", text1.upper())
+print("lower() example", text2.lower())
+print("replace() example", text1.replace("First", "New"))
+print("join() example", " and ".join([text1, text2]))
